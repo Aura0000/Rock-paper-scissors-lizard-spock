@@ -4,7 +4,6 @@ import time
 def cls():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-
 # Set of instructions for Rock-Paper-Scissors-Lizard-Spock
 def rpsls_instructions():
     print()
